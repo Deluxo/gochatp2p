@@ -26,7 +26,7 @@ To end your message, press *ENTER* and *CTRL+D*.
 
 To end the session, simply close the window.
 
-This app is more of a fun than something serious, though feel free to fork,
+This app is more of a fun home project than something serious, though feel free to fork,
 request for pulls or comment.
 
 Have a good day!
